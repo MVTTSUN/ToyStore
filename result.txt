@@ -1,0 +1,10 @@
+2 robot 2
+2 robot 2
+3 doll 6
+3 doll 6
+3 doll 6
+2 robot 2
+1 constructor 2
+3 doll 6
+1 constructor 2
+2 robot 2
